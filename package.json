@@ -1,5 +1,5 @@
 {
-  "name": "lunzip",
+  "name": "lunzip-stream",
   "version": "0.0.1",
   "description": "lzip stream decompressor",
   "main": "lunzip.js",
@@ -16,6 +16,7 @@
   "keywords": [
     "lzip",
     "lunzip",
+    "unlzip",
     "stream"
   ],
   "author": "yetzt <node@yetzt.me>",
