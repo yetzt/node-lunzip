@@ -1,0 +1,27 @@
+{
+  "name": "lunzip",
+  "version": "0.0.1",
+  "description": "lzip stream decompressor",
+  "main": "lunzip.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "sh build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-lunzip.git"
+  },
+  "keywords": [
+    "lzip",
+    "lunzip",
+    "stream"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-lunzip/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-lunzip#readme"
+}
