@@ -1,6 +1,6 @@
 # lunzip
 
-lunzip is a stream decompressor for data compressed with (GNU lzip)[https://www.nongnu.org/lzip/] vie emscripten.
+lunzip is a stream decompressor for data compressed with [GNU lzip](https://www.nongnu.org/lzip/) vie emscripten.
 
 ## usage example
 
